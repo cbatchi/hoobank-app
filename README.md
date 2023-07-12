@@ -25,10 +25,15 @@ Hoobank App is a template integration for a static website that provides a sleek
    git clone https://github.com/your-username/hoobank-app.git
    ```
 
-2. cd hoobank-app
+2. ```
+   cd hoobank-app
+   ```
 
-3. npm install
+````
 
-4. yarn install
+3. ```npm install```
 
-5. npm run dev
+4. ```yarn install```
+
+5. ```npm run dev```
+````
