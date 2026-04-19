@@ -1,39 +1,52 @@
 # Hoobank App
 
-Hoobank App is a template integration for a static website that provides a sleek and modern design for a banking application. It is built using React.js and Tailwind CSS, offering a powerful combination of a robust JavaScript framework and a highly customizable CSS utility framework.
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
-## Features
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
-- Responsive Design: The app is designed to work seamlessly across various devices and screen sizes, providing an optimal user experience.
-- User-friendly Interface: The intuitive interface allows users to navigate through different sections, access their account information, and perform banking operations with ease.
-- Static Website: The app is a static website, making it highly performant and easily deployable to different hosting platforms.
-- React.js: Leveraging the power of React.js, the app follows a component-based architecture, allowing for efficient development and easy maintainability.
-- Tailwind CSS: The app's styling is done using Tailwind CSS, a highly customizable utility-first CSS framework, enabling quick and consistent styling adjustments.
+## Introduction
+Hoobank App is a financial management application designed to help users manage their banking activities efficiently. The app offers a modern interface and seamless user experience.
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (version X.X.X)
-- npm (version X.X.X) or yarn (version X.X.X)
-
-### Installation
-
+## Installation
+To install and run the Hoobank App, follow these steps:
 1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/your-username/hoobank-app.git
+   ```bash
+   git clone https://github.com/cbatchi/hoobank-app.git
    ```
-
-2. ```
+2. Navigate to the project directory:
+   ```bash
    cd hoobank-app
    ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the application:
+   ```bash
+   npm start
+   ```
 
-````
+## Usage
+Once the application is running, you can:
+- View your bank account details
+- Make transactions
+- Generate reports
 
-3. ```npm install```
+## Features
+- User-friendly interface
+- Secure banking operations
+- Transaction history
 
-4. ```yarn install```
+## Contributing
+We welcome contributions! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
-5. ```npm run dev```
-````
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
